@@ -1,3 +1,6 @@
 runs/
 yolov8x.pt
 videos/*
+
+yolov5xu.pt
+training/football-players-detection-1/football-players-detection-1
