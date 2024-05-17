@@ -1,6 +1,6 @@
 # Football Stats Extraction using Yolo
 
-## Running the project
+### Running the project
 
 Please get a video from the [Football Clips Used](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips) section and paste it into the videos/ folder named as _play.mp4_
 
