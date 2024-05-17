@@ -1,6 +1,6 @@
 # Football Stats Extraction using Yolo
 
-### :link: Links
+**:link: Links**
 
 - [Base Project](https://www.youtube.com/watch?v=neBZ6huolkg&t=431s)
 - [Yolo Model](https://docs.ultralytics.com/models/yolov8/)
