@@ -7,3 +7,7 @@ training/football-players-detection-1/football-players-detection-1
 
 
 models/*
+
+training/football-players-detection-1/test
+training/football-players-detection-1/train
+training/football-players-detection-1/valid
